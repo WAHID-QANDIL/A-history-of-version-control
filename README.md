@@ -5,7 +5,7 @@ As you know by now, version control is a system that records changes to a file o
 
 Version Control has a long history going back to the 1980s. In fact, version control systems were created before the Internet!
 
-One of the first significant Version Control Systems was the Concurrent Versions System (CVS). It was first developed in 1986 by **Walter F. Tichy at Purdue University and released publicly in 1990*.
+One of the first significant Version Control Systems was the Concurrent Versions System (CVS). It was first developed in 1986 by *Walter F. Tichy at Purdue University and released publicly in 1990*.
 
 CVS stores information about every file in a folder structure, including the name of the file, its location in the folder structure, who last modified it, and when it was last modified. The CVS also stores information about folders, including their names and who created them.
 
@@ -19,10 +19,10 @@ However, Subversion used a centralized VCS model. This means that all operations
 
 In 2005, two new projects were started to develop distributed version control systems; Mercurial and Git. Both projects were created in response to an event involving the Linux kernel development.
 
-Previously, the Linux kernel was using a proprietary VCS known as BitKeeper. BitKeeper was one of the first distributed version control systems initially released in 2000. BitKeeper had originally provided a free license to Linus Torvalds to support Linux’s development. However, in 2005, the license was revoked. This controversy led to the creation of the Mercurial and Git projects.
+Previously, the Linux kernel was using a proprietary VCS known as *BitKeeper*. BitKeeper was one of the first distributed version control systems initially released in 2000. BitKeeper had originally provided a free license to Linus Torvalds to support Linux’s development. However, in 2005, the *license was revoked*. This controversy led to the creation of the Mercurial and Git projects.
 
-Mercurial was developed by Olivia Mackall. It is developed as a high-performance distributed VCS. Many platforms offering Subversion hosting began to offer Mercurial hosting too. It became popular as Subversion users found it easy to transition to a Mercurial repository, thanks to the hosting providers and its small learning curve.
+Mercurial was developed by *Olivia Mackall*. It is developed as a high-performance distributed VCS. Many platforms offering Subversion hosting began to offer Mercurial hosting too. It became popular as Subversion users found it easy to transition to a Mercurial repository, thanks to the hosting providers and its small learning curve.
 
-Git was developed by Linus Torvalds to host the Linux kernel’s source code. Like Mercurial, it is a distributed VCS. Its first public release came in 2007.
+Git was developed by *Linus Torvalds* to host the Linux kernel’s source code. Like Mercurial, it is a distributed VCS. Its first public release came in 2007.
 
 Git became popular in the open-source community due to its distributed VCS design and Github offering free Git hosting for open-source projects. Git has since become the selected version control system for many open-source and proprietary software projects.
