@@ -26,4 +26,4 @@ Mercurial was developed by *Olivia Mackall*. It is developed as a high-performan
 Git was developed by *Linus Torvalds* to host the Linux kernel’s source code. Like Mercurial, it is a distributed VCS. Its first public release came in 2007.
 
 Git became popular in the open-source community due to its distributed VCS design and Github offering free Git hosting for open-source projects. Git has since become the selected version control system for many open-source and proprietary software projects.
-##https://en.wikipedia.org/wiki/List_of_version-control_software
+## https://en.wikipedia.org/wiki/List_of_version-control_software
