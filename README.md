@@ -5,7 +5,7 @@ As you know by now, version control is a system that records changes to a file o
 
 Version Control has a long history going back to the 1980s. In fact, version control systems were created before the Internet!
 
-One of the first significant Version Control Systems was the Concurrent Versions System (CVS). It was first developed in 1986 by Walter F. Tichy at Purdue University and released publicly in 1990.
+One of the first significant Version Control Systems was the Concurrent Versions System (CVS). It was first developed in 1986 by *Walter F. Tichy at Purdue University and released publicly in 1990*.
 
 CVS stores information about every file in a folder structure, including the name of the file, its location in the folder structure, who last modified it, and when it was last modified. The CVS also stores information about folders, including their names and who created them.
 
